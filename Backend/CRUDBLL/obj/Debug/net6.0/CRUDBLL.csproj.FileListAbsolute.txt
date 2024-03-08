@@ -1,0 +1,17 @@
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDBLL.deps.json
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDBLL.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDBLL.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDRepository.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDRepository.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.csproj.AssemblyReference.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.AssemblyInfoInputs.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.AssemblyInfo.cs
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.csproj.CoreCompileInputs.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.csproj.CopyComplete
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\refint\CRUDBLL.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\CRUDBLL.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDBLL\obj\Debug\net6.0\ref\CRUDBLL.dll

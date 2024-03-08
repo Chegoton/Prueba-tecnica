@@ -1,0 +1,24 @@
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\bin\Debug\net6.0\CRUDModels.deps.json
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.csproj.AssemblyReference.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.AssemblyInfoInputs.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.AssemblyInfo.cs
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.csproj.CoreCompileInputs.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\refint\CRUDModels.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDModels\obj\Debug\net6.0\ref\CRUDModels.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\bin\Debug\net6.0\CRUDModels.deps.json
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.csproj.AssemblyReference.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.AssemblyInfoInputs.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.AssemblyInfo.cs
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.csproj.CoreCompileInputs.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\refint\CRUDModels.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDModels\obj\Debug\net6.0\ref\CRUDModels.dll

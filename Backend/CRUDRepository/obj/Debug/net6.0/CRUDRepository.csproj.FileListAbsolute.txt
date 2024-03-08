@@ -1,0 +1,34 @@
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\bin\Debug\net6.0\CRUDRepository.deps.json
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\bin\Debug\net6.0\CRUDRepository.runtimeconfig.json
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\bin\Debug\net6.0\CRUDRepository.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\bin\Debug\net6.0\CRUDRepository.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.AssemblyReference.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.AssemblyInfoInputs.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.AssemblyInfo.cs
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.CoreCompileInputs.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\refint\CRUDRepository.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.genruntimeconfig.cache
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\ref\CRUDRepository.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\PruebaTecnica\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.CopyComplete
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\bin\Debug\net6.0\CRUDRepository.deps.json
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\bin\Debug\net6.0\CRUDRepository.runtimeconfig.json
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\bin\Debug\net6.0\CRUDRepository.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\bin\Debug\net6.0\CRUDRepository.pdb
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\bin\Debug\net6.0\CRUDModels.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\bin\Debug\net6.0\CRUDModels.pdb
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.AssemblyReference.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.AssemblyInfoInputs.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.AssemblyInfo.cs
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.CoreCompileInputs.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.csproj.CopyComplete
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\refint\CRUDRepository.dll
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.pdb
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\CRUDRepository.genruntimeconfig.cache
+C:\Users\Chego\source\repos\Source Code\Backend\CRUDRepository\obj\Debug\net6.0\ref\CRUDRepository.dll

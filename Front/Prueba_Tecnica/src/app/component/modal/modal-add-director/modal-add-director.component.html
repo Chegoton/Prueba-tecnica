@@ -1,0 +1,17 @@
+<div class="modal-content">
+    <span class="close" (click)="closeModal()">&times;</span>
+    <h2>Add New Director</h2>
+    <div class="input-container">
+      <label for="name">Name:</label>
+      <input type="text" id="DirectorName" [(ngModel)]="director.name" name="name" placeholder="Enter the name">
+    </div>
+    <div class="input-container">
+      <label for="age">Age:</label>
+      <input type="number" id="DirectorAge" [(ngModel)]="director.age" name="age" placeholder="Enter the age">
+    </div>
+    <div class="button-container">
+      <button id="btnSave" (click)="btnSave()">Save</button>
+      <button id="btnCancel" (click)="closeModal()">Cancel</button>
+    </div>
+  </div>
+  

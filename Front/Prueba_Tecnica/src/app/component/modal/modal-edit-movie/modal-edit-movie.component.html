@@ -1,0 +1,33 @@
+<div class="modal-content">
+    <span class="close" (click)="closeModal()">&times;</span>
+    <h2>Add New Movie</h2>
+    <div class="input-container">
+      <label for="movieName">Name:</label>
+      <input type="text" id="movieName" [(ngModel)]="movie.name" name="movieName" placeholder="Enter the name">
+    </div>
+    <div class="input-container">
+      <label for="gender">Gender:</label>
+      <input type="text" id="gender" [(ngModel)]="movie.gender" name="gender" placeholder="Enter the gender">
+    </div>
+    <div class="input-container">
+      <label for="director">Director:</label>
+      <select id="director" [(ngModel)]="movie.fkDirector" name="director">
+        <option *ngFor="let director of directors" [value]="director.id">{{ director.name }}</option>
+      </select>
+    </div>
+    <div class="input-container">
+        <label for="duration">Duration:</label>
+        <input type="text" [(ngModel)]="movie.duration" name="duration" (input)="formatoHora()">
+        <small *ngIf="!formatoHora()">
+            Please enter a valid HH:MM:SS format, example 02:15:22
+        </small>
+      </div>
+      <div class="input-container">
+        <label for="available">Available:</label>
+        <input type="checkbox" id="available" [(ngModel)]="movie.available" name="available">
+    </div>
+    <div class="button-container">
+      <button id="btnSave" (click)="btnSave()" [disabled]="!formatoHora()">Save</button>
+      <button id="btnCancel" (click)="closeModal()">Cancel</button>
+    </div>
+  </div>
